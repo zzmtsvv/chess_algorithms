@@ -1,0 +1,5 @@
+chess==1.9.4
+ipython==8.11.0
+numpy==1.22.0
+pandas==1.5.3
+tqdm==4.64.1

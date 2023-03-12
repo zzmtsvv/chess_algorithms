@@ -1,0 +1,1 @@
+Some toy experiment with minimax alpha-beta pruning algorithm for Chess
