@@ -101,7 +101,7 @@ class GreedyPlayer(Player):
 
 
 class MiniMaxPlayer(Player):
-    def __init__(self, player: bool, depth=3, verbose=False) -> None:
+    def __init__(self, player: bool, depth=10, verbose=False) -> None:
         super().__init__(player, "minimax")
 
         self.depth = depth
